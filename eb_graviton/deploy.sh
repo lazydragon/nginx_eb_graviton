@@ -1,0 +1,1 @@
+eb create -i m6g.large -ix 1 -ip ec2-admin -r ap-southeast-1 nginx-arm
